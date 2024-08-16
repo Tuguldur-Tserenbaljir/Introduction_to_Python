@@ -1,5 +1,5 @@
 # Introduction-To-Python<br/>
-***Fall 2020, EE231001 Introduction to Python, 周百祥(CHOU, PAI-HSIANG)***<br/>
+***Fall 2020, CS135800 Introduction to Python, 周百祥(CHOU, PAI-HSIANG)***<br/>
 This course introduces fundamental programming concepts in the Python language and related environment. Fundamental concepts include overview of computer systems, python environment setup, Python language overview, command line interface, numbers, string formatting, sequences, dictionaries and sets, control flow, exception, file, function, recursion, obect orientation, inheritance, polymorphism, and modules.
 
 # Assignments
